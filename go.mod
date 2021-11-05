@@ -1,4 +1,4 @@
-module github.com/eaciit/toolkit
+module github.com/ekobudy/toolkit
 
 go 1.13
 
